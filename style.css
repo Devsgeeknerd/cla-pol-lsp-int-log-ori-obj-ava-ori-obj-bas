@@ -1,9 +1,9 @@
-div{
+div {
 	background-color:#ff0000;
 }
 /*.header span{
 	background-color:#00ff00;
 }*/
-.header > span{
+.header > span {
 	background-color:#00ff00;
 }
